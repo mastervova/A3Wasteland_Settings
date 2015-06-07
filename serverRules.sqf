@@ -15,7 +15,7 @@
 "
 
 <br/>
-<font face='PuristaBold' size='22'>Custom Controls</font> <br/>
+<font face='PuristaBold' size='22'>GamersInc. Wasteland ZA#1 Custom Controls</font> <br/>
 <br/>
 <font face='PuristaBold'>Go to configure -> Controls -> Show: Custom Controls</font> <br/>
 <br/>
