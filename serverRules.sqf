@@ -15,14 +15,17 @@
 "
 
 <br/>
-<font face='PuristaBold' size='22'>GamersInc. Wasteland ZA#1 Custom Controls</font> <br/>
+<font face='PuristaBold' size='22'>A3Wasteland Server Rules</font> <br/>
 <br/>
-<font face='PuristaBold'>Go to configure -> Controls -> Show: Custom Controls</font> <br/>
+<font face='PuristaBold'>1.</font> Hacking or cheating will get you banned. <br/>
 <br/>
-<font face='PuristaBold'>1.</font> Custom Control 1 = Earplugs <br/>
+<font face='PuristaBold'>2.</font> Support your team and its objectives. <br/>
 <br/>
-<font face='PuristaBold'>2.</font> Custom Control 2 = Emergency Eject. <br/>
+<font face='PuristaBold'>3.</font> No intentional teamkilling. <br/>
 <br/>
-<font face='PuristaBold'>3.</font> Custom Control 3 = Jump over / Parachute <br/>
+<font face='PuristaBold'>4.</font> Respect other players. <br/>
+<br/>
+<font face='PuristaBold'>5.</font> Respect the administrators. <br/>
+
 "
 // Don't remove this quote

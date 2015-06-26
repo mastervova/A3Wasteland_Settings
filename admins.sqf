@@ -31,6 +31,5 @@ highAdmins =
 serverOwners = 
 [
 	// Put player UIDs here
-	"76561197960927169"//CREAMPIE
-	
+ "0"
 ];
